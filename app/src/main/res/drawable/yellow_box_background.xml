@@ -1,0 +1,6 @@
+<!-- res/drawable/grey_box_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#FFFF00" /> <!-- yellow color -->
+    <corners android:radius="8dp" />
+</shape>
